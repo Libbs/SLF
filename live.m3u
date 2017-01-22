@@ -3,8 +3,8 @@ Smells Like Fish Productions
 #EXTM3U
 #EXTINF:-1,CAN-US Premium HD Live streaming channels
 http://whatever.ts
-#EXTINF:-1,Chum Fishing
-https://www.youtube.com/watch?v=OQ-g2UYwEOE
+#EXTINF:-1,unsure video
+http://www.mediafire.com/file/24l11p9nc26g84o/30_Apr_%28mobile%29.mp4
 #EXTINF:-1    group-title="Streams",NBC
 http://free-premium-iptv.ddns.net:9090/load/freestreams/1.mpegts
 #EXTINF:-1    group-title="Streams",A&E
