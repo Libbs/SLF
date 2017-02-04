@@ -3,173 +3,123 @@ Smells Like Fish Productions
 #EXTM3U
 #EXTINF:-1,CAN-US Premium HD Live streaming channels
 http://whatever.ts
-#EXTINF:-1,unsure video
-http://www.mediafire.com/file/24l11p9nc26g84o/30_Apr_%28mobile%29.mp4
-#EXTINF:-1    group-title="Streams",NBC
-http://free-premium-iptv.ddns.net:9090/load/freestreams/1.mpegts
-#EXTINF:-1    group-title="Streams",A&E
-http://free-premium-iptv.ddns.net:9090/load/freestreams/2.mpegts
-#EXTINF:-1    group-title="Streams",AMC
-http://free-premium-iptv.ddns.net:9090/load/freestreams/3.mpegts
-#EXTINF:-1    group-title="Streams",ABC
-http://free-premium-iptv.ddns.net:9090/load/freestreams/4.mpegts
-#EXTINF:-1    group-title="Streams",E!
-http://free-premium-iptv.ddns.net:9090/load/freestreams/5.mpegts
-#EXTINF:-1    group-title="Streams",FOX
-http://free-premium-iptv.ddns.net:9090/load/freestreams/6.mpegts
-#EXTINF:-1    group-title="Streams",SIFY
-http://free-premium-iptv.ddns.net:9090/load/freestreams/7.mpegts
-#EXTINF:-1    group-title="Streams",SPIKE
-http://free-premium-iptv.ddns.net:9090/load/freestreams/8.mpegts
-#EXTINF:-1    group-title="Streams",TBS
-http://free-premium-iptv.ddns.net:9090/load/freestreams/9.mpegts
-#EXTINF:-1    group-title="Streams",TNT
-http://free-premium-iptv.ddns.net:9090/load/freestreams/10.mpegts
-#EXTINF:-1    group-title="Streams",LMN
-http://free-premium-iptv.ddns.net:9090/load/freestreams/12.mpegts
-#EXTINF:-1    group-title="Streams",HallMark Channel
-http://free-premium-iptv.ddns.net:9090/load/freestreams/13.mpegts
-#EXTINF:-1    group-title="Streams",TruTV
-http://free-premium-iptv.ddns.net:9090/load/freestreams/14.mpegts
-#EXTINF:-1    group-title="Streams",OWN
-http://free-premium-iptv.ddns.net:9090/load/freestreams/15.mpegts
-#EXTINF:-1    group-title="Streams",BBC AMERICA
-http://free-premium-iptv.ddns.net:9090/load/freestreams/16.mpegts
-#EXTINF:-1    group-title="Streams",CITY TV
-http://free-premium-iptv.ddns.net:9090/load/freestreams/17.mpegts
-#EXTINF:-1    group-title="Streams",CTV
-http://free-premium-iptv.ddns.net:9090/load/freestreams/18.mpegts
-#EXTINF:-1    group-title="Streams",Comedy Central
-http://free-premium-iptv.ddns.net:9090/load/freestreams/19.mpegts
-#EXTINF:-1    group-title="Streams",Lifetime
-http://free-premium-iptv.ddns.net:9090/load/freestreams/20.mpegts
-#EXTINF:-1    group-title="Streams",CBC
-http://free-premium-iptv.ddns.net:9090/load/freestreams/21.mpegts
-#EXTINF:-1    group-title="Streams",HBO
-http://free-premium-iptv.ddns.net:9090/load/freestreams/22.mpegts
-#EXTINF:-1    group-title="Streams",HBO 2
-http://free-premium-iptv.ddns.net:9090/load/freestreams/23.mpegts
-#EXTINF:-1    group-title="Streams",HBO COMEDY
-http://free-premium-iptv.ddns.net:9090/load/freestreams/24.mpegts
-#EXTINF:-1    group-title="Streams",HBO ZONE
-http://free-premium-iptv.ddns.net:9090/load/freestreams/25.mpegts
-#EXTINF:-1    group-title="Streams",HBO SIGNATURE
-http://free-premium-iptv.ddns.net:9090/load/freestreams/26.mpegts
-#EXTINF:-1    group-title="Streams",HBO FAMILY
-http://free-premium-iptv.ddns.net:9090/load/freestreams/27.mpegts
-#EXTINF:-1    group-title="Streams",SHOWTIME
-http://free-premium-iptv.ddns.net:9090/load/freestreams/28.mpegts
-#EXTINF:-1    group-title="Streams",SHOWTIME 2
-http://free-premium-iptv.ddns.net:9090/load/freestreams/29.mpegts
-#EXTINF:-1    group-title="Streams",SHOWTIME SHOWCASE
-http://free-premium-iptv.ddns.net:9090/load/freestreams/30.mpegts
-#EXTINF:-1    group-title="Streams",Starz East
-http://free-premium-iptv.ddns.net:9090/load/freestreams/31.mpegts
-#EXTINF:-1    group-title="Streams",Starz West
-http://free-premium-iptv.ddns.net:9090/load/freestreams/32.mpegts
-#EXTINF:-1    group-title="Streams",Startz Edge
-http://free-premium-iptv.ddns.net:9090/load/freestreams/33.mpegts
-#EXTINF:-1    group-title="Streams",Starz Cinema
-http://free-premium-iptv.ddns.net:9090/load/freestreams/34.mpegts
-#EXTINF:-1    group-title="Streams",Starz Encore
-http://free-premium-iptv.ddns.net:9090/load/freestreams/35.mpegts
-#EXTINF:-1    group-title="Streams",Starz Comedy
-http://free-premium-iptv.ddns.net:9090/load/freestreams/36.mpegts
-#EXTINF:-1    group-title="Streams",Starz N Black
-http://free-premium-iptv.ddns.net:9090/load/freestreams/37.mpegts
-#EXTINF:-1    group-title="Streams",Starz Encode Western
-http://free-premium-iptv.ddns.net:9090/load/freestreams/38.mpegts
-#EXTINF:-1    group-title="Streams",Cinemax East
-http://free-premium-iptv.ddns.net:9090/load/freestreams/39.mpegts
-#EXTINF:-1    group-title="Streams",Cinemax 5 StarMax
-http://free-premium-iptv.ddns.net:9090/load/freestreams/40.mpegts
-#EXTINF:-1    group-title="Streams",Cinemax ActionMax
-http://free-premium-iptv.ddns.net:9090/load/freestreams/41.mpegts
-#EXTINF:-1    group-title="Streams",Cinemax Moremax
-http://free-premium-iptv.ddns.net:9090/load/freestreams/42.mpegts
-#EXTINF:-1    group-title="Streams",Space
-http://free-premium-iptv.ddns.net:9090/load/freestreams/43.mpegts
-#EXTINF:-1    group-title="Streams",The Movie Channel
-http://free-premium-iptv.ddns.net:9090/load/freestreams/44.mpegts
-#EXTINF:-1    group-title="Streams",ESPN
-http://free-premium-iptv.ddns.net:9090/load/freestreams/45.mpegts
-#EXTINF:-1    group-title="Streams",ESPN 2
-http://free-premium-iptv.ddns.net:9090/load/freestreams/46.mpegts
-#EXTINF:-1    group-title="Streams",ESPN NU
-http://free-premium-iptv.ddns.net:9090/load/freestreams/47.mpegts
-#EXTINF:-1    group-title="Streams",NBC SN
-http://free-premium-iptv.ddns.net:9090/load/freestreams/48.mpegts
-#EXTINF:-1    group-title="Streams",CBS SN
-http://free-premium-iptv.ddns.net:9090/load/freestreams/49.mpegts
-#EXTINF:-1    group-title="Streams",Fox Sports 1
-http://free-premium-iptv.ddns.net:9090/load/freestreams/50.mpegts
-#EXTINF:-1    group-title="Streams",Fox Sports 2
-http://free-premium-iptv.ddns.net:9090/load/freestreams/51.mpegts
-#EXTINF:-1    group-title="Streams",NBA TV
-http://free-premium-iptv.ddns.net:9090/load/freestreams/52.mpegts
-#EXTINF:-1    group-title="Streams",MLB Network
-http://free-premium-iptv.ddns.net:9090/load/freestreams/53.mpegts
-#EXTINF:-1    group-title="Streams",NFL Network
-http://free-premium-iptv.ddns.net:9090/load/freestreams/54.mpegts
-#EXTINF:-1    group-title="Streams",NFL Now
-http://free-premium-iptv.ddns.net:9090/load/freestreams/55.mpegts
-#EXTINF:-1    group-title="Streams",NHL
-http://free-premium-iptv.ddns.net:9090/load/freestreams/56.mpegts
-#EXTINF:-1    group-title="Streams",WWE Network
-http://free-premium-iptv.ddns.net:9090/load/freestreams/57.mpegts
-#EXTINF:-1    group-title="Streams",TSN1
-http://free-premium-iptv.ddns.net:9090/load/freestreams/58.mpegts
-#EXTINF:-1    group-title="Streams",TSN 2
-http://free-premium-iptv.ddns.net:9090/load/freestreams/59.mpegts
-#EXTINF:-1    group-title="Streams",TSN 3
-http://free-premium-iptv.ddns.net:9090/load/freestreams/60.mpegts
-#EXTINF:-1    group-title="Streams",TSN4
-http://free-premium-iptv.ddns.net:9090/load/freestreams/61.mpegts
-#EXTINF:-1    group-title="Streams",TSN5
-http://free-premium-iptv.ddns.net:9090/load/freestreams/62.mpegts
-#EXTINF:-1    group-title="Streams",SPORTSNET ONE
-http://free-premium-iptv.ddns.net:9090/load/freestreams/63.mpegts
-#EXTINF:-1    group-title="Streams",SPORTSNET ONTARIO
-http://free-premium-iptv.ddns.net:9090/load/freestreams/64.mpegts
-#EXTINF:-1    group-title="Streams",SPORTS WORLD
-http://free-premium-iptv.ddns.net:9090/load/freestreams/65.mpegts
-#EXTINF:-1    group-title="Streams",SPORTSNET 360
-http://free-premium-iptv.ddns.net:9090/load/freestreams/66.mpegts
-#EXTINF:-1    group-title="Streams",SPORTSNET PACIFIC
-http://free-premium-iptv.ddns.net:9090/load/freestreams/67.mpegts
-#EXTINF:-1    group-title="Streams",CNN
-http://free-premium-iptv.ddns.net:9090/load/freestreams/68.mpegts
-#EXTINF:-1    group-title="Streams",CBC News
-http://free-premium-iptv.ddns.net:9090/load/freestreams/69.mpegts
-#EXTINF:-1    group-title="Streams",CNBC
-http://free-premium-iptv.ddns.net:9090/load/freestreams/70.mpegts
-#EXTINF:-1    group-title="Streams",MSNBC
-http://free-premium-iptv.ddns.net:9090/load/freestreams/71.mpegts
-#EXTINF:-1    group-title="Streams",FOX NEWS
-http://free-premium-iptv.ddns.net:9090/load/freestreams/72.mpegts
-#EXTINF:-1    group-title="Streams",ABC NEWS
-http://free-premium-iptv.ddns.net:9090/load/freestreams/73.mpegts
-#EXTINF:-1    group-title="Streams",Fox Business
-http://free-premium-iptv.ddns.net:9090/load/freestreams/74.mpegts
-#EXTINF:-1    group-title="Streams",History
-http://free-premium-iptv.ddns.net:9090/load/freestreams/75.mpegts
-#EXTINF:-1    group-title="Streams",H2
-http://free-premium-iptv.ddns.net:9090/load/freestreams/76.mpegts
-#EXTINF:-1    group-title="Streams",National Geographic
-http://free-premium-iptv.ddns.net:9090/load/freestreams/77.mpegts
-#EXTINF:-1    group-title="Streams",Nat Geo Wild
-http://free-premium-iptv.ddns.net:9090/load/freestreams/78.mpegts
-#EXTINF:-1    group-title="Streams",Animal Planet
-http://free-premium-iptv.ddns.net:9090/load/freestreams/79.mpegts
-#EXTINF:-1    group-title="Streams",Investigation Discovery
-http://free-premium-iptv.ddns.net:9090/load/freestreams/80.mpegts
-#EXTINF:-1    group-title="Streams",Velocity
-http://free-premium-iptv.ddns.net:9090/load/freestreams/81.mpegts
-#EXTINF:-1    group-title="Streams",Love Nature
-http://free-premium-iptv.ddns.net:9090/load/freestreams/82.mpegts
-#EXTINF:-1    group-title="Streams",Food Network
-http://free-premium-iptv.ddns.net:9090/load/freestreams/83.mpegts
-#EXTINF:-1    group-title="Streams",HGTV
-http://free-premium-iptv.ddns.net:9090/load/freestreams/84.mpegts
-#EXTINF:-1    group-title="Streams",DYI Network
-http://free-premium-iptv.ddns.net:9090/load/freestreams/85.mpegts
+#EXTINF:-1,CA: World Fishing
+http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/12123.ts
+#EXTINF:-1,CA: beIN Sports HD
+CAhttp://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/15665.ts
+#EXTINF:-1,CA: Sportnet  One HD
+http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/16783.ts
+#EXTINF:-1,CA: Sportnet World HD
+http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/16777.ts
+#EXTINF:-1,CA: Sportnet 360 HD
+http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/16782.ts
+#EXTINF:-1,CA: Sportnet East HD
+http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/16781.ts
+#EXTINF:-1,CA: Sportnet Ontario HD
+http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/16780.ts
+#EXTINF:-1,CA: Sportnet Pacific HD
+http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/16779.ts
+#EXTINF:-1,CA: Sportnet West HD
+http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/16778.ts
+#EXTINF:-1,CA: TSN 1 HD
+http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/16784.ts
+#EXTINF:-1,CA: TSN 2 HD
+http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/16785.ts
+#EXTINF:-1,CA: TSN 3 HD
+http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/16786.ts
+#EXTINF:-1,CA: TSN 4 HD
+http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/16787.ts
+#EXTINF:-1,CA: TSN 5 HD
+http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/16788.ts
+#EXTINF:-1,CA: RDS2 hd
+http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/12132.ts
+#EXTINF:-1,CA: RDS 2
+http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/10240.ts
+#EXTINF:-1,CA: CBS HD
+http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/12581.ts
+#EXTINF:-1,CA: ABC HD
+http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/12146.ts
+#EXTINF:-1,CA: NBC HD
+http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/14895.ts
+#EXTINF:-1,CA: FOX HD
+http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/12578.ts
+#EXTINF:-1,CA: FXX hd
+http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/12143.ts
+#EXTINF:-1,CA: PBS HD
+http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/14894.ts
+#EXTINF:-1,CA: PBS Plus HD
+http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/14893.ts
+#EXTINF:-1,CA: HGTV HD
+http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/14896.ts
+#EXTINF:-1,CA: SLICE HD
+http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/12575.ts
+#EXTINF:-1,CA: RDI
+http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/10243.ts
+#EXTINF:-1,CA: PIX 11 HD
+http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/12576.ts
+#EXTINF:-1,CA: ION HD
+http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/12577.ts
+#EXTINF:-1,CA: LCN hd
+http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/12140.ts
+#EXTINF:-1,CA: Bravo HD
+http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/12144.ts
+#EXTINF:-1,CA: BET entertainment
+http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/12145.ts
+#EXTINF:-1,CA: COOKING CHANNEL
+http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/12579.ts
+#EXTINF:-1,CA: CHCH HD
+http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/12580.ts
+#EXTINF:-1,CA: OWN (oprah winfrew network)
+http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/12133.ts
+#EXTINF:-1,CA: omni 1
+http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/12135.ts
+#EXTINF:-1,CA: omni 2
+http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/12134.ts
+#EXTINF:-1,CA: Super Ecran 1
+http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/11413.ts
+#EXTINF:-1,CA: Super Ecran 2
+http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/11412.ts
+#EXTINF:-1,CA: Super Ecran 3
+http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/11411.ts
+#EXTINF:-1,CA: Super Ecran 4
+http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/11410.ts
+#EXTINF:-1,CA: W Network
+http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/12125.ts
+#EXTINF:-1,CA: vrak tv
+http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/12127.ts
+#EXTINF:-1,CA: tree house
+http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/12128.ts
+#EXTINF:-1,CA: travel channel
+http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/12129.ts
+#EXTINF:-1,CA: tmn
+http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/12130.ts
+#EXTINF:-1,CA: Teletoon
+http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/12131.ts
+#EXTINF:-1,CA: slice
+http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/12126.ts
+#EXTINF:-1,CA: nick.Jr canada
+http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/12136.ts
+#EXTINF:-1,CA: much music
+http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/12137.ts
+#EXTINF:-1,CA: mtv canada
+http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/12138.ts
+#EXTINF:-1,CA: movie time
+http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/12139.ts
+#EXTINF:-1,CA: ici rdi
+http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/12141.ts
+#EXTINF:-1,CA: ici artv
+http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/12142.ts
+#EXTINF:-1,CA: Peach Tree TV
+http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/10241.ts
+#EXTINF:-1,CA: OLN
+http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/10242.ts
+#EXTINF:-1,CA: Silver Screen Classics
+http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/10244.ts
+#EXTINF:-1,CA: T&E
+http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/7425.ts
+#EXTINF:-1,CA: VRAK
+http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/7903.ts
+#EXTINF:-1,CA: MTV
+http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/11414.ts
+#EXTINF:-1,CA: MovieTimehttp://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/11415.ts#EXTINF:-1,CA: Gsnhttp://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/11416.ts#EXTINF:-1,CA: Golfhttp://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/11417.ts#EXTINF:-1,CA: G4http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/11418.ts#EXTINF:-1,CA: FYIhttp://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/11419.ts#EXTINF:-1,CA: E!http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/11420.ts#EXTINF:-1,CA: Deja Viewhttp://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/11421.ts#EXTINF:-1,CA: CTV Torontohttp://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/11422.ts#EXTINF:-1,CA: CW HDhttp://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/18115.ts#EXTINF:-1,CA: Family CHRGD HDhttp://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/18116.ts#EXTINF:-1,CA: Family HDhttp://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/18117.ts#EXTINF:-1,CA: Family Junior HDhttp://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/18118.ts#EXTINF:-1,CA: FOX W HDhttp://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/18119.ts#EXTINF:-1,CA: OMNI 1 HDhttp://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/18120.ts#EXTINF:-1,CA: OMNI 2 HDhttp://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/18121.ts#EXTINF:-1,CA: Teletoon HDhttp://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/18122.ts#EXTINF:-1,CA: Treehouse HDhttp://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/18123.ts#EXTINF:-1,CA: Tru TV HDhttp://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/18124.ts#EXTINF:-1,CA: TVO HDhttp://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/18125.ts#EXTINF:-1,CA: Univision HDhttp://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/18126.ts#EXTINF:-1,CA: Velocity HDhttp://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/18127.ts#EXTINF:-1,CA: CP24http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/11423.ts#EXTINF:-1,CA: Cottage Lifehttp://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/11424.ts#EXTINF:-1,CA: Comedy Goldhttp://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/11425.ts#EXTINF:-1,CA: City Vancouverhttp://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/11426.ts#EXTINF:-1,CA: CHCHhttp://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/11427.ts#EXTINF:-1,CA: CBC Torontohttp://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/11428.ts#EXTINF:-1,CA: Bethttp://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/11429.ts
+#EXTINF:-1,CA: ABC Sparkhttp://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/11430.ts
