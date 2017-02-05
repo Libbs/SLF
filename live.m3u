@@ -1,12 +1,8 @@
 # SLF
-Smells Like Fish Productions
+
 #EXTM3U
-#EXTINF:-1,CAN-US Premium HD Live streaming channels
-http://whatever.ts
-#EXTINF:-1,CA: World Fishing
+#EXTINF:-1,CA: World Fishing Network
 http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/12123.ts
-#EXTINF:-1,CA: beIN Sports HD
-CAhttp://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/15665.ts
 #EXTINF:-1,CA: Sportnet  One HD
 http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/16783.ts
 #EXTINF:-1,CA: Sportnet World HD
@@ -121,5 +117,61 @@ http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/7425.ts
 http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/7903.ts
 #EXTINF:-1,CA: MTV
 http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/11414.ts
-#EXTINF:-1,CA: MovieTimehttp://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/11415.ts#EXTINF:-1,CA: Gsnhttp://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/11416.ts#EXTINF:-1,CA: Golfhttp://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/11417.ts#EXTINF:-1,CA: G4http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/11418.ts#EXTINF:-1,CA: FYIhttp://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/11419.ts#EXTINF:-1,CA: E!http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/11420.ts#EXTINF:-1,CA: Deja Viewhttp://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/11421.ts#EXTINF:-1,CA: CTV Torontohttp://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/11422.ts#EXTINF:-1,CA: CW HDhttp://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/18115.ts#EXTINF:-1,CA: Family CHRGD HDhttp://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/18116.ts#EXTINF:-1,CA: Family HDhttp://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/18117.ts#EXTINF:-1,CA: Family Junior HDhttp://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/18118.ts#EXTINF:-1,CA: FOX W HDhttp://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/18119.ts#EXTINF:-1,CA: OMNI 1 HDhttp://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/18120.ts#EXTINF:-1,CA: OMNI 2 HDhttp://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/18121.ts#EXTINF:-1,CA: Teletoon HDhttp://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/18122.ts#EXTINF:-1,CA: Treehouse HDhttp://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/18123.ts#EXTINF:-1,CA: Tru TV HDhttp://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/18124.ts#EXTINF:-1,CA: TVO HDhttp://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/18125.ts#EXTINF:-1,CA: Univision HDhttp://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/18126.ts#EXTINF:-1,CA: Velocity HDhttp://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/18127.ts#EXTINF:-1,CA: CP24http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/11423.ts#EXTINF:-1,CA: Cottage Lifehttp://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/11424.ts#EXTINF:-1,CA: Comedy Goldhttp://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/11425.ts#EXTINF:-1,CA: City Vancouverhttp://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/11426.ts#EXTINF:-1,CA: CHCHhttp://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/11427.ts#EXTINF:-1,CA: CBC Torontohttp://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/11428.ts#EXTINF:-1,CA: Bethttp://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/11429.ts
-#EXTINF:-1,CA: ABC Sparkhttp://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/11430.ts
+#EXTINF:-1,CA: MovieTime
+http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/11415.ts
+#EXTINF:-1,CA: Gsn
+http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/11416.ts
+#EXTINF:-1,CA: Golf
+http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/11417.ts
+#EXTINF:-1,CA: G4
+http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/11418.ts
+#EXTINF:-1,CA: FYI
+http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/11419.ts
+#EXTINF:-1,CA: E!
+http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/11420.ts
+#EXTINF:-1,CA: Deja View
+http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/11421.ts
+#EXTINF:-1,CA: CTV Toronto
+http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/11422.ts
+#EXTINF:-1,CA: CW HD
+http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/18115.ts
+#EXTINF:-1,CA: Family CHRGD HD
+http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/18116.ts
+#EXTINF:-1,CA: Family HD
+http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/18117.ts
+#EXTINF:-1,CA: Family Junior HD
+http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/18118.ts
+#EXTINF:-1,CA: FOX W HD
+http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/18119.ts
+#EXTINF:-1,CA: OMNI 1 HD
+http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/18120.ts
+#EXTINF:-1,CA: OMNI 2 HD
+http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/18121.ts
+#EXTINF:-1,CA: Teletoon HD
+http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/18122.ts
+#EXTINF:-1,CA: Treehouse HD
+http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/18123.ts
+#EXTINF:-1,CA: Tru TV HD
+http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/18124.ts
+#EXTINF:-1,CA: TVO HD
+http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/18125.ts
+#EXTINF:-1,CA: Univision HD
+http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/18126.ts
+#EXTINF:-1,CA: Velocity HD
+http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/18127.ts
+#EXTINF:-1,CA: CP24
+http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/11423.ts
+#EXTINF:-1,CA: Cottage Life
+http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/11424.ts
+#EXTINF:-1,CA: Comedy Gold
+http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/11425.ts
+#EXTINF:-1,CA: City Vancouver
+http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/11426.ts
+#EXTINF:-1,CA: CHCH
+http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/11427.ts
+#EXTINF:-1,CA: CBC Toronto
+http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/11428.ts
+#EXTINF:-1,CA: Bet
+http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/11429.ts
+#EXTINF:-1,CA: ABC Spark
+http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/11430.ts
